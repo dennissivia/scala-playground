@@ -2,4 +2,8 @@
 *.log
 target/*
 project/target/
-tempCodeRunnerFile.scala
+**/tempCodeRunnerFile.scala
+ensime-langserver.log
+pc.stdout.log
+TAGS
+.metals/
